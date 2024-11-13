@@ -1,0 +1,6 @@
+.project
+package-lock.json
+.settings/.jsdtscope
+.settings/org.eclipse.wst.jsdt.ui.superType.container
+.settings/org.eclipse.wst.jsdt.ui.superType.name
+editor/package-lock.json
